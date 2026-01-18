@@ -38,4 +38,4 @@ I am eager to contribute to building impactful products at scale, combining tech
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitdutttyagi&show_icons=true&locale=en" alt="harshitdutttyagi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitdutttyagi&" alt="harshitdutttyagi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HarshitDuttTyagi&" alt="harshitdutttyagi" /></p>
