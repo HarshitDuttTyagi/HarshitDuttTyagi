@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Dutt Tyagi</h1>
-<h2 align="left">I am a Computer Science Engineer with experience in AI/ML, prompt engineering, and full-stack development, 
-passionate about solving complex problems and building scalable systems from scratch. During my internships at ConsultAdd, DaveAI, and ONGC,
+<h2 align="center">I am a Computer Science Engineer with experience in AI/ML, prompt engineering, and full-stack development, 
+passionate about solving complex problems and building scalable systems from scratch.<br> During my internships at ConsultAdd, DaveAI, and ONGC,
 I developed projects ranging from an AI-powered resume builder and interview automation platform to RAG-based chatbot enhancements and a Django-based booking system.<br>
 These experiences sharpened my skills in system design, algorithms, and distributed technologies, while instilling a strong focus on customer-centric solutions.<br>
 With solid foundations in DSA, OOPs, and complexity analysis, along with hands-on expertise in C++, Python, Java, and SQL, I thrive in agile, fast-paced environments where ambiguity leads to innovation.<br>
